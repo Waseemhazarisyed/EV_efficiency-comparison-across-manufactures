@@ -1,0 +1,6 @@
+Make,Model,Year,Weight (lbs),Range (mi),Battery Size (kWh),mi/kWh,MPGe,kWh/100mi,Wh/km,Charge Time @3.7kW,Charge Time @7kW,Charge Time @22kW,Charge Time @50kW,Charge Time @150kW,Price (USD)
+Tesla,Model 3 Long Range,2025,4034,358,82.0,4.37,134,23.0,143,22.2h,11.7h,3.7h,1.5h,0.5h,47990
+BYD,Han EV,2025,4409,295,85.4,3.45,140,29.0,180,23.1h,12.2h,3.9h,1.5h,0.5h,45000
+Hyundai,Ioniq 5 Long Range AWD,2024,4619,282,77.4,3.64,118,27.5,171,20.9h,11.0h,3.5h,1.3h,0.4h,51830
+Nissan,Leaf SV Plus,2024,3933,226,62.0,3.65,111,27.4,170,16.8h,8.9h,2.8h,1.1h,0.4h,36040
+Lucid,Air Grand Touring,2025,5236,516,112.0,4.61,131,21.7,135,30.3h,16.0h,5.0h,2.0h,0.7h,125600

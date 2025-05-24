@@ -1,0 +1,9 @@
+The Python packages you used are:
+
+Pandas – for data manipulation and cleaning
+
+NumPy – for numerical operations and handling missing values
+
+Matplotlib – for data visualization
+
+Seaborn – for statistical plotting and exploratory data analysis (EDA)
